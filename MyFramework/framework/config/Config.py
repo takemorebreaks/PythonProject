@@ -1,9 +1,13 @@
+import os
+
 class Config:
     # Application URLs
     BASE_URL = "https://parabank.parasoft.com/parabank/index.htm"
+
     # Browser settings
     BROWSER = "chromium"  # options: chromium, firefox, webkit
-    HEADLESS = False  # True = run headless, False = visible
+    # Default False (headed) locally, but CI sets HEADLESS=true
+    HEADLESS = os.getenv("HEADLESS", "false").lower() == "true"
 
     # Timeout settings
     DEFAULT_TIMEOUT = 10000  # in ms
