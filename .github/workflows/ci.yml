@@ -28,15 +28,22 @@ jobs:
         run: |
           python -m playwright install --with-deps
 
-      - name: Run Pytest (headless mode)
+      - name: Run Pytest (force headless in CI)
         env:
-          HEADLESS: "true"   # force headless in CI
+          HEADLESS: "true"
         run: |
           export PYTHONPATH=$PYTHONPATH:$(pwd)
-          pytest MyFramework/tests --maxfail=1 --disable-warnings -q
+          pytest MyFramework/tests --maxfail=1 --disable-warnings -q --html=MyFramework/reports/report.html --self-contained-html
 
-      - name: Upload test reports
+      - name: Upload HTML report
         uses: actions/upload-artifact@v4
         with:
-          name: test-reports
-          path: MyFramework/reports/
+          name: pytest-html-report
+          path: MyFramework/reports/report.html
+
+      - name: Upload failed screenshots
+        if: failure()   # only upload if tests failed
+        uses: actions/upload-artifact@v4
+        with:
+          name: failed-screenshots
+          path: MyFramework/reports/screenshots/
