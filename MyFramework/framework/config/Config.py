@@ -10,7 +10,7 @@ class Config:
     HEADLESS = os.getenv("HEADLESS", "false").lower() == "true"
 
     # Timeout settings
-    DEFAULT_TIMEOUT = 10000  # in ms
+    DEFAULT_TIMEOUT = 30000  # in ms
 
     # Report paths
     REPORT_DIR = "reports/"
