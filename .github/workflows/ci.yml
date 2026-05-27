@@ -28,7 +28,9 @@ jobs:
         run: |
           python -m playwright install --with-deps
 
-      - name: Run Pytest
+      - name: Run Pytest (headless mode)
+        env:
+          HEADLESS: "true"   # force headless in CI
         run: |
           export PYTHONPATH=$PYTHONPATH:$(pwd)
           pytest MyFramework/tests --maxfail=1 --disable-warnings -q
