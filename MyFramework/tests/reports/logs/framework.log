@@ -1,0 +1,224 @@
+2026-05-17 23:05:29,188 - FrameworkLogger - INFO - Starting Base test class
+2026-05-17 23:05:36,068 - FrameworkLogger - INFO - Browser launched: chromium, Headless=False
+2026-05-17 23:05:36,069 - FrameworkLogger - INFO - Navigated to https://parabank.parasoft.com/parabank/index.htm
+2026-05-17 23:05:40,884 - FrameworkLogger - INFO - Closing browser...
+2026-05-19 22:20:48,034 - FrameworkLogger - INFO - Starting Base test class
+2026-05-19 22:21:12,062 - FrameworkLogger - INFO - Browser launched: chromium, Headless=False
+2026-05-19 22:21:12,062 - FrameworkLogger - INFO - Navigated to https://parabank.parasoft.com/parabank/index.htm
+2026-05-19 22:21:17,918 - FrameworkLogger - INFO - Closing browser...
+2026-05-19 22:21:58,189 - FrameworkLogger - INFO - Starting Base test class
+2026-05-19 22:24:00,790 - FrameworkLogger - INFO - Starting Base test class
+2026-05-19 22:24:06,934 - FrameworkLogger - INFO - Browser launched: chromium, Headless=False
+2026-05-19 22:24:06,937 - FrameworkLogger - INFO - Navigated to https://parabank.parasoft.com/parabank/index.htm
+2026-05-19 22:24:06,949 - FrameworkLogger - INFO - Closing browser...
+2026-05-19 22:25:10,462 - FrameworkLogger - INFO - Starting Base test class
+2026-05-19 22:25:15,582 - FrameworkLogger - INFO - Browser launched: chromium, Headless=False
+2026-05-19 22:25:15,583 - FrameworkLogger - INFO - Navigated to https://parabank.parasoft.com/parabank/index.htm
+2026-05-19 22:25:15,588 - FrameworkLogger - INFO - Closing browser...
+2026-05-19 22:25:22,148 - FrameworkLogger - INFO - Browser launched: chromium, Headless=False
+2026-05-19 22:25:22,149 - FrameworkLogger - INFO - Navigated to https://parabank.parasoft.com/parabank/index.htm
+2026-05-19 22:25:22,154 - FrameworkLogger - INFO - Closing browser...
+2026-05-19 22:27:43,080 - FrameworkLogger - INFO - Starting Base test class
+2026-05-19 22:28:49,520 - FrameworkLogger - INFO - Starting Base test class
+2026-05-19 22:33:13,162 - FrameworkLogger - INFO - Starting Base test class
+2026-05-19 22:33:38,755 - FrameworkLogger - INFO - Browser launched: chromium, Headless=False
+2026-05-19 22:33:38,756 - FrameworkLogger - INFO - Navigated to https://parabank.parasoft.com/parabank/index.htm
+2026-05-19 22:33:38,780 - FrameworkLogger - INFO - Closing browser...
+2026-05-19 22:33:43,165 - FrameworkLogger - INFO - Browser launched: chromium, Headless=False
+2026-05-19 22:33:43,166 - FrameworkLogger - INFO - Navigated to https://parabank.parasoft.com/parabank/index.htm
+2026-05-19 22:33:43,172 - FrameworkLogger - INFO - Closing browser...
+2026-05-19 22:35:30,927 - FrameworkLogger - INFO - Starting Base test class
+2026-05-19 22:36:17,675 - FrameworkLogger - INFO - Starting Base test class
+2026-05-19 22:36:23,109 - FrameworkLogger - INFO - Browser launched: chromium, Headless=False
+2026-05-19 22:36:23,109 - FrameworkLogger - INFO - Navigated to https://parabank.parasoft.com/parabank/index.htm
+2026-05-19 22:36:23,117 - FrameworkLogger - INFO - Closing browser...
+2026-05-19 22:36:28,532 - FrameworkLogger - INFO - Browser launched: chromium, Headless=False
+2026-05-19 22:36:28,532 - FrameworkLogger - INFO - Navigated to https://parabank.parasoft.com/parabank/index.htm
+2026-05-19 22:36:28,537 - FrameworkLogger - INFO - Closing browser...
+2026-05-19 22:36:57,950 - FrameworkLogger - INFO - Starting Base test class
+2026-05-19 22:37:01,750 - FrameworkLogger - INFO - Browser launched: chromium, Headless=False
+2026-05-19 22:37:01,751 - FrameworkLogger - INFO - Navigated to https://parabank.parasoft.com/parabank/index.htm
+2026-05-19 22:37:01,756 - FrameworkLogger - INFO - Closing browser...
+2026-05-19 22:37:06,312 - FrameworkLogger - INFO - Browser launched: chromium, Headless=False
+2026-05-19 22:37:06,313 - FrameworkLogger - INFO - Navigated to https://parabank.parasoft.com/parabank/index.htm
+2026-05-19 22:37:06,318 - FrameworkLogger - INFO - Closing browser...
+2026-05-19 22:37:41,159 - FrameworkLogger - INFO - Starting Base test class
+2026-05-19 22:37:45,021 - FrameworkLogger - INFO - Browser launched: chromium, Headless=False
+2026-05-19 22:37:45,022 - FrameworkLogger - INFO - Navigated to https://parabank.parasoft.com/parabank/index.htm
+2026-05-19 22:37:45,027 - FrameworkLogger - INFO - Closing browser...
+2026-05-19 22:37:48,712 - FrameworkLogger - INFO - Browser launched: chromium, Headless=False
+2026-05-19 22:37:48,712 - FrameworkLogger - INFO - Navigated to https://parabank.parasoft.com/parabank/index.htm
+2026-05-19 22:37:48,716 - FrameworkLogger - INFO - Closing browser...
+2026-05-19 22:39:07,564 - FrameworkLogger - INFO - Starting Base test class
+2026-05-19 22:39:12,808 - FrameworkLogger - INFO - Browser launched: chromium, Headless=False
+2026-05-19 22:39:12,810 - FrameworkLogger - INFO - Navigated to https://parabank.parasoft.com/parabank/index.htm
+2026-05-19 22:39:12,816 - FrameworkLogger - INFO - Closing browser...
+2026-05-19 22:41:57,902 - FrameworkLogger - INFO - Starting Base test class
+2026-05-19 22:42:27,764 - FrameworkLogger - INFO - Starting Base test class
+2026-05-19 22:45:06,556 - FrameworkLogger - INFO - Starting Base test class
+2026-05-19 22:46:23,464 - FrameworkLogger - INFO - Starting Base test class
+2026-05-19 22:47:47,275 - FrameworkLogger - INFO - Starting Base test class
+2026-05-19 22:48:35,646 - FrameworkLogger - INFO - Starting Base test class
+2026-05-19 22:49:05,673 - FrameworkLogger - INFO - Starting Base test class
+2026-05-19 22:49:11,958 - FrameworkLogger - INFO - Browser launched: chromium, Headless=False
+2026-05-19 22:49:11,959 - FrameworkLogger - INFO - Navigated to https://parabank.parasoft.com/parabank/index.htm
+2026-05-19 22:49:11,973 - FrameworkLogger - INFO - Closing browser...
+2026-05-19 22:49:18,078 - FrameworkLogger - INFO - Browser launched: chromium, Headless=False
+2026-05-19 22:49:18,078 - FrameworkLogger - INFO - Navigated to https://parabank.parasoft.com/parabank/index.htm
+2026-05-19 22:49:18,091 - FrameworkLogger - INFO - Closing browser...
+2026-05-19 22:49:37,185 - FrameworkLogger - INFO - Starting Base test class
+2026-05-19 22:49:43,036 - FrameworkLogger - INFO - Browser launched: chromium, Headless=False
+2026-05-19 22:49:43,037 - FrameworkLogger - INFO - Navigated to https://parabank.parasoft.com/parabank/index.htm
+2026-05-19 22:49:43,070 - FrameworkLogger - INFO - Closing browser...
+2026-05-19 22:49:50,620 - FrameworkLogger - INFO - Browser launched: chromium, Headless=False
+2026-05-19 22:49:50,622 - FrameworkLogger - INFO - Navigated to https://parabank.parasoft.com/parabank/index.htm
+2026-05-19 22:49:50,637 - FrameworkLogger - INFO - Closing browser...
+2026-05-19 22:50:54,069 - FrameworkLogger - INFO - Starting Base test class
+2026-05-19 22:51:00,954 - FrameworkLogger - INFO - Browser launched: chromium, Headless=False
+2026-05-19 22:51:00,954 - FrameworkLogger - INFO - Navigated to https://parabank.parasoft.com/parabank/index.htm
+2026-05-19 22:51:00,969 - FrameworkLogger - INFO - Closing browser...
+2026-05-19 22:51:08,597 - FrameworkLogger - INFO - Browser launched: chromium, Headless=False
+2026-05-19 22:51:08,597 - FrameworkLogger - INFO - Navigated to https://parabank.parasoft.com/parabank/index.htm
+2026-05-19 22:51:08,610 - FrameworkLogger - INFO - Closing browser...
+2026-05-19 22:51:45,923 - FrameworkLogger - INFO - Starting Base test class
+2026-05-19 22:51:50,620 - FrameworkLogger - INFO - Browser launched: chromium, Headless=False
+2026-05-19 22:51:50,620 - FrameworkLogger - INFO - Navigated to https://parabank.parasoft.com/parabank/index.htm
+2026-05-19 22:51:50,675 - FrameworkLogger - INFO - Closing browser...
+2026-05-19 22:51:55,919 - FrameworkLogger - INFO - Browser launched: chromium, Headless=False
+2026-05-19 22:51:55,919 - FrameworkLogger - INFO - Navigated to https://parabank.parasoft.com/parabank/index.htm
+2026-05-19 22:51:55,931 - FrameworkLogger - INFO - Closing browser...
+2026-05-19 22:53:52,651 - FrameworkLogger - INFO - Starting Base test class
+2026-05-19 22:53:58,202 - FrameworkLogger - INFO - Browser launched: chromium, Headless=False
+2026-05-19 22:53:58,203 - FrameworkLogger - INFO - Navigated to https://parabank.parasoft.com/parabank/index.htm
+2026-05-19 22:53:58,246 - FrameworkLogger - INFO - Closing browser...
+2026-05-19 22:54:05,260 - FrameworkLogger - INFO - Browser launched: chromium, Headless=False
+2026-05-19 22:54:05,260 - FrameworkLogger - INFO - Navigated to https://parabank.parasoft.com/parabank/index.htm
+2026-05-19 22:54:05,272 - FrameworkLogger - INFO - Closing browser...
+2026-05-19 22:54:31,739 - FrameworkLogger - INFO - Starting Base test class
+2026-05-19 22:54:38,964 - FrameworkLogger - INFO - Browser launched: chromium, Headless=False
+2026-05-19 22:54:38,965 - FrameworkLogger - INFO - Navigated to https://parabank.parasoft.com/parabank/index.htm
+2026-05-19 22:54:39,017 - FrameworkLogger - INFO - Closing browser...
+2026-05-19 22:54:45,620 - FrameworkLogger - INFO - Browser launched: chromium, Headless=False
+2026-05-19 22:54:45,622 - FrameworkLogger - INFO - Navigated to https://parabank.parasoft.com/parabank/index.htm
+2026-05-19 22:54:45,629 - FrameworkLogger - INFO - Closing browser...
+2026-05-19 22:56:32,068 - FrameworkLogger - INFO - Starting Base test class
+2026-05-19 22:56:38,147 - FrameworkLogger - INFO - Browser launched: chromium, Headless=False
+2026-05-19 22:56:38,147 - FrameworkLogger - INFO - Navigated to https://parabank.parasoft.com/parabank/index.htm
+2026-05-19 22:56:38,156 - FrameworkLogger - INFO - Closing browser...
+2026-05-19 22:56:42,612 - FrameworkLogger - INFO - Browser launched: chromium, Headless=False
+2026-05-19 22:56:42,613 - FrameworkLogger - INFO - Navigated to https://parabank.parasoft.com/parabank/index.htm
+2026-05-19 22:56:42,629 - FrameworkLogger - INFO - Closing browser...
+2026-05-19 23:00:10,389 - FrameworkLogger - INFO - Starting Base test class
+2026-05-19 23:00:15,332 - FrameworkLogger - INFO - Browser launched: chromium, Headless=False
+2026-05-19 23:00:15,333 - FrameworkLogger - INFO - Navigated to https://parabank.parasoft.com/parabank/index.htm
+2026-05-19 23:00:15,391 - FrameworkLogger - INFO - Closing browser...
+2026-05-19 23:00:21,470 - FrameworkLogger - INFO - Browser launched: chromium, Headless=False
+2026-05-19 23:00:21,470 - FrameworkLogger - INFO - Navigated to https://parabank.parasoft.com/parabank/index.htm
+2026-05-19 23:00:21,478 - FrameworkLogger - INFO - Closing browser...
+2026-05-19 23:03:47,436 - FrameworkLogger - INFO - Starting Base test class
+2026-05-19 23:03:55,035 - FrameworkLogger - INFO - Browser launched: chromium, Headless=False
+2026-05-19 23:03:55,036 - FrameworkLogger - INFO - Navigated to https://parabank.parasoft.com/parabank/index.htm
+2026-05-19 23:03:55,043 - FrameworkLogger - INFO - Closing browser...
+2026-05-19 23:04:02,453 - FrameworkLogger - INFO - Browser launched: chromium, Headless=False
+2026-05-19 23:04:02,453 - FrameworkLogger - INFO - Navigated to https://parabank.parasoft.com/parabank/index.htm
+2026-05-19 23:04:02,462 - FrameworkLogger - INFO - Closing browser...
+2026-05-19 23:06:35,582 - FrameworkLogger - INFO - Starting Base test class
+2026-05-19 23:06:42,698 - FrameworkLogger - INFO - Browser launched: chromium, Headless=False
+2026-05-19 23:06:42,698 - FrameworkLogger - INFO - Navigated to https://parabank.parasoft.com/parabank/index.htm
+2026-05-19 23:06:42,703 - FrameworkLogger - INFO - Closing browser...
+2026-05-19 23:06:48,324 - FrameworkLogger - INFO - Browser launched: chromium, Headless=False
+2026-05-19 23:06:48,325 - FrameworkLogger - INFO - Navigated to https://parabank.parasoft.com/parabank/index.htm
+2026-05-19 23:06:48,331 - FrameworkLogger - INFO - Closing browser...
+2026-05-19 23:07:10,260 - FrameworkLogger - INFO - Starting Base test class
+2026-05-19 23:07:17,102 - FrameworkLogger - INFO - Browser launched: chromium, Headless=False
+2026-05-19 23:07:17,102 - FrameworkLogger - INFO - Navigated to https://parabank.parasoft.com/parabank/index.htm
+2026-05-19 23:07:17,110 - FrameworkLogger - INFO - Closing browser...
+2026-05-19 23:07:23,348 - FrameworkLogger - INFO - Browser launched: chromium, Headless=False
+2026-05-19 23:07:23,348 - FrameworkLogger - INFO - Navigated to https://parabank.parasoft.com/parabank/index.htm
+2026-05-19 23:07:23,356 - FrameworkLogger - INFO - Closing browser...
+2026-05-19 23:09:20,555 - FrameworkLogger - INFO - Starting Base test class
+2026-05-19 23:09:26,431 - FrameworkLogger - INFO - Browser launched: chromium, Headless=False
+2026-05-19 23:09:26,433 - FrameworkLogger - INFO - Navigated to https://parabank.parasoft.com/parabank/index.htm
+2026-05-19 23:09:26,445 - FrameworkLogger - INFO - Closing browser...
+2026-05-19 23:09:31,951 - FrameworkLogger - INFO - Browser launched: chromium, Headless=False
+2026-05-19 23:09:31,952 - FrameworkLogger - INFO - Navigated to https://parabank.parasoft.com/parabank/index.htm
+2026-05-19 23:09:31,962 - FrameworkLogger - INFO - Closing browser...
+2026-05-19 23:13:06,794 - FrameworkLogger - INFO - Starting Base test class
+2026-05-19 23:13:15,668 - FrameworkLogger - INFO - Browser launched: chromium, Headless=False
+2026-05-19 23:13:15,669 - FrameworkLogger - INFO - Navigated to https://parabank.parasoft.com/parabank/index.htm
+2026-05-19 23:13:15,677 - FrameworkLogger - INFO - Closing browser...
+2026-05-19 23:13:23,032 - FrameworkLogger - INFO - Browser launched: chromium, Headless=False
+2026-05-19 23:13:23,033 - FrameworkLogger - INFO - Navigated to https://parabank.parasoft.com/parabank/index.htm
+2026-05-19 23:13:23,039 - FrameworkLogger - INFO - Closing browser...
+2026-05-19 23:15:29,198 - FrameworkLogger - INFO - Starting Base test class
+2026-05-19 23:15:36,178 - FrameworkLogger - INFO - Browser launched: chromium, Headless=False
+2026-05-19 23:15:36,178 - FrameworkLogger - INFO - Navigated to https://parabank.parasoft.com/parabank/index.htm
+2026-05-19 23:15:36,183 - FrameworkLogger - INFO - Closing browser...
+2026-05-19 23:15:42,034 - FrameworkLogger - INFO - Browser launched: chromium, Headless=False
+2026-05-19 23:15:42,034 - FrameworkLogger - INFO - Navigated to https://parabank.parasoft.com/parabank/index.htm
+2026-05-19 23:15:42,038 - FrameworkLogger - INFO - Closing browser...
+2026-05-19 23:18:56,755 - FrameworkLogger - INFO - Starting Base test class
+2026-05-19 23:19:02,434 - FrameworkLogger - INFO - Browser launched: chromium, Headless=False
+2026-05-19 23:19:02,434 - FrameworkLogger - INFO - Navigated to https://parabank.parasoft.com/parabank/index.htm
+2026-05-19 23:19:02,437 - FrameworkLogger - INFO - Closing browser...
+2026-05-19 23:19:09,832 - FrameworkLogger - INFO - Browser launched: chromium, Headless=False
+2026-05-19 23:19:09,833 - FrameworkLogger - INFO - Navigated to https://parabank.parasoft.com/parabank/index.htm
+2026-05-19 23:19:09,837 - FrameworkLogger - INFO - Closing browser...
+2026-05-19 23:21:05,192 - FrameworkLogger - INFO - Starting Base test class
+2026-05-19 23:21:12,256 - FrameworkLogger - INFO - Browser launched: chromium, Headless=False
+2026-05-19 23:21:12,257 - FrameworkLogger - INFO - Navigated to https://parabank.parasoft.com/parabank/index.htm
+2026-05-19 23:21:12,263 - FrameworkLogger - INFO - Closing browser...
+2026-05-19 23:21:19,218 - FrameworkLogger - INFO - Browser launched: chromium, Headless=False
+2026-05-19 23:21:19,218 - FrameworkLogger - INFO - Navigated to https://parabank.parasoft.com/parabank/index.htm
+2026-05-19 23:21:19,222 - FrameworkLogger - INFO - Closing browser...
+2026-05-19 23:21:58,618 - FrameworkLogger - INFO - Starting Base test class
+2026-05-19 23:22:03,875 - FrameworkLogger - INFO - Browser launched: chromium, Headless=False
+2026-05-19 23:22:03,876 - FrameworkLogger - INFO - Navigated to https://parabank.parasoft.com/parabank/index.htm
+2026-05-19 23:22:03,930 - FrameworkLogger - INFO - Closing browser...
+2026-05-19 23:22:10,624 - FrameworkLogger - INFO - Browser launched: chromium, Headless=False
+2026-05-19 23:22:10,626 - FrameworkLogger - INFO - Navigated to https://parabank.parasoft.com/parabank/index.htm
+2026-05-19 23:22:10,635 - FrameworkLogger - INFO - Closing browser...
+2026-05-19 23:23:19,777 - FrameworkLogger - INFO - Starting Base test class
+2026-05-19 23:23:24,251 - FrameworkLogger - INFO - Browser launched: chromium, Headless=False
+2026-05-19 23:23:24,252 - FrameworkLogger - INFO - Navigated to https://parabank.parasoft.com/parabank/index.htm
+2026-05-19 23:23:24,287 - FrameworkLogger - INFO - Closing browser...
+2026-05-19 23:23:27,941 - FrameworkLogger - INFO - Browser launched: chromium, Headless=False
+2026-05-19 23:23:27,941 - FrameworkLogger - INFO - Navigated to https://parabank.parasoft.com/parabank/index.htm
+2026-05-19 23:23:27,956 - FrameworkLogger - INFO - Closing browser...
+2026-05-19 23:35:39,872 - FrameworkLogger - INFO - Starting Base test class
+2026-05-19 23:35:46,485 - FrameworkLogger - INFO - Browser launched: chromium, Headless=False
+2026-05-19 23:35:46,485 - FrameworkLogger - INFO - Navigated to https://parabank.parasoft.com/parabank/index.htm
+2026-05-19 23:35:46,497 - FrameworkLogger - INFO - Closing browser...
+2026-05-19 23:35:53,350 - FrameworkLogger - INFO - Browser launched: chromium, Headless=False
+2026-05-19 23:35:53,351 - FrameworkLogger - INFO - Navigated to https://parabank.parasoft.com/parabank/index.htm
+2026-05-19 23:35:53,366 - FrameworkLogger - INFO - Closing browser...
+2026-05-19 23:37:55,172 - FrameworkLogger - INFO - Starting Base test class
+2026-05-19 23:38:00,527 - FrameworkLogger - INFO - Browser launched: chromium, Headless=False
+2026-05-19 23:38:00,530 - FrameworkLogger - INFO - Navigated to https://parabank.parasoft.com/parabank/index.htm
+2026-05-19 23:38:00,547 - FrameworkLogger - INFO - Closing browser...
+2026-05-19 23:38:04,807 - FrameworkLogger - INFO - Browser launched: chromium, Headless=False
+2026-05-19 23:38:04,807 - FrameworkLogger - INFO - Navigated to https://parabank.parasoft.com/parabank/index.htm
+2026-05-19 23:38:04,813 - FrameworkLogger - INFO - Closing browser...
+2026-05-19 23:38:53,444 - FrameworkLogger - INFO - Starting Base test class
+2026-05-19 23:38:58,457 - FrameworkLogger - INFO - Browser launched: chromium, Headless=False
+2026-05-19 23:38:58,459 - FrameworkLogger - INFO - Navigated to https://parabank.parasoft.com/parabank/index.htm
+2026-05-19 23:38:58,476 - FrameworkLogger - INFO - Closing browser...
+2026-05-19 23:39:02,267 - FrameworkLogger - INFO - Browser launched: chromium, Headless=False
+2026-05-19 23:39:02,267 - FrameworkLogger - INFO - Navigated to https://parabank.parasoft.com/parabank/index.htm
+2026-05-19 23:39:02,277 - FrameworkLogger - INFO - Closing browser...
+2026-05-19 23:43:00,695 - FrameworkLogger - INFO - Starting Base test class
+2026-05-19 23:43:08,042 - FrameworkLogger - INFO - Browser launched: chromium, Headless=False
+2026-05-19 23:43:08,044 - FrameworkLogger - INFO - Navigated to https://parabank.parasoft.com/parabank/index.htm
+2026-05-19 23:43:53,987 - FrameworkLogger - INFO - Closing browser...
+2026-05-19 23:43:56,463 - FrameworkLogger - INFO - Starting Base test class
+2026-05-19 23:44:00,200 - FrameworkLogger - INFO - Browser launched: chromium, Headless=False
+2026-05-19 23:44:00,201 - FrameworkLogger - INFO - Navigated to https://parabank.parasoft.com/parabank/index.htm
+2026-05-19 23:45:11,541 - FrameworkLogger - INFO - Closing browser...
+2026-05-19 23:45:12,545 - FrameworkLogger - INFO - Starting Base test class
+2026-05-19 23:45:19,890 - FrameworkLogger - INFO - Browser launched: chromium, Headless=False
+2026-05-19 23:45:19,892 - FrameworkLogger - INFO - Navigated to https://parabank.parasoft.com/parabank/index.htm
+2026-05-19 23:47:31,547 - FrameworkLogger - INFO - Closing browser...
+2026-05-19 23:47:46,387 - FrameworkLogger - INFO - Starting Base test class
+2026-05-19 23:47:53,620 - FrameworkLogger - INFO - Browser launched: chromium, Headless=False
+2026-05-19 23:47:53,621 - FrameworkLogger - INFO - Navigated to https://parabank.parasoft.com/parabank/index.htm
+2026-05-19 23:48:43,354 - FrameworkLogger - INFO - Closing browser...
