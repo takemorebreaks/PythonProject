@@ -8,4 +8,4 @@ class LoginPage:
     def login(self,userName,password):
         self.page.fill(self.locators["username_field"],userName)
         self.page.fill(self.locators["password_field"],password)
-        self.page.click(self.locators["login_button"])
+       # self.page.click(self.locators["login_button"])
