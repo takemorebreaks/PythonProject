@@ -15,7 +15,7 @@ def pytest_runtest_makereport(item, call):
         test_instance = getattr(item, "instance", None)
         if test_instance and hasattr(test_instance, "page"):
             os.makedirs(Config.SCREENSHOT_DIR, exist_ok=True)
-            screenshot_path = f"{Config.SCREENSHOT_DIR}/{item.name}_failed.png"
+            screenshot_path = os.path.join(Config.SCREENSHOT_DIR, f"{item.name}_failed.png")
             test_instance.page.screenshot(path=screenshot_path)
             log.info(f"Screenshot captured for failed test: {item.name} → {screenshot_path}")
         else:
