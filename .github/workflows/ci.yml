@@ -12,7 +12,7 @@ jobs:
 
     steps:
       - name: Checkout code
-        uses: actions/checkout@v3
+        uses: actions/checkout@v4
 
       - name: Set up Python
         uses: actions/setup-python@v4
@@ -30,6 +30,7 @@ jobs:
 
       - name: Run Pytest
         run: |
+          export PYTHONPATH=$PYTHONPATH:$(pwd)
           pytest MyFramework/tests --maxfail=1 --disable-warnings -q
 
       - name: Upload test reports
