@@ -33,17 +33,18 @@ jobs:
           HEADLESS: "true"
         run: |
           export PYTHONPATH=$PYTHONPATH:$(pwd)
-          pytest MyFramework/tests --maxfail=1 --disable-warnings -q --html=MyFramework/reports/report.html --self-contained-html
+          pytest MyFramework/tests --disable-warnings -q \
+            --html=reports/report.html --self-contained-html
 
       - name: Upload HTML report
         uses: actions/upload-artifact@v4
         with:
           name: pytest-html-report
-          path: MyFramework/reports/report.html
+          path: reports/report.html
 
       - name: Upload failed screenshots
-        if: failure()   # only upload if tests failed
+        if: failure()
         uses: actions/upload-artifact@v4
         with:
           name: failed-screenshots
-          path: MyFramework/reports/screenshots/
+          path: reports/screenshots/
