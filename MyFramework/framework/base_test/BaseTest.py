@@ -1,3 +1,5 @@
+import os
+
 import playwright.sync_api
 from playwright.sync_api import sync_playwright
 
@@ -19,7 +21,12 @@ class BaseTest:
         self.log.info(f"Browser launched: {Config.BROWSER}, Headless={Config.HEADLESS}")
         self.log.info(f"Navigated to {Config.BASE_URL}")
 
-    def teardown_method(self):
-        self.log.info("Closing browser...")
+    def teardown_method(self, method):
+        if hasattr(self, "page") and self.page:
+            if hasattr(method, "__name__") and self._outcome.errors:
+                os.makedirs(Config.SCREENSHOT_DIR, exist_ok=True)
+                self.page.screenshot(
+                    path=f"{Config.SCREENSHOT_DIR}/{method.__name__}_failed.png"
+                )
         self.browser.close()
         self.playwright.stop()

@@ -262,3 +262,6 @@
 2026-05-27 19:39:16,364 - FrameworkLogger - INFO - Browser launched: chromium, Headless=False
 2026-05-27 19:39:16,365 - FrameworkLogger - INFO - Navigated to https://parabank.parasoft.com/parabank/index.htm
 2026-05-27 19:39:47,042 - FrameworkLogger - INFO - Closing browser...
+2026-05-27 19:50:07,497 - FrameworkLogger - INFO - Starting Base test class
+2026-05-27 19:50:11,912 - FrameworkLogger - INFO - Browser launched: chromium, Headless=False
+2026-05-27 19:50:11,914 - FrameworkLogger - INFO - Navigated to https://parabank.parasoft.com/parabank/index.htm
