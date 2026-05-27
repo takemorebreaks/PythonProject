@@ -296,3 +296,21 @@
 2026-05-27 20:28:14,557 - FrameworkLogger - INFO - Navigated to https://parabank.parasoft.com/parabank/index.htm
 2026-05-27 20:28:49,404 - FrameworkLogger - INFO - Browser launched: chromium, Headless=False
 2026-05-27 20:28:49,404 - FrameworkLogger - INFO - Navigated to https://parabank.parasoft.com/parabank/index.htm
+2026-05-27 21:26:48,569 - FrameworkLogger - INFO - Starting Base test class
+2026-05-27 21:26:48,581 - pytest_hooks - INFO - Preparing report directories at session start...
+2026-05-27 21:26:48,583 - pytest_hooks - INFO - Deleted old screenshot directory: reports/screenshots/
+2026-05-27 21:26:48,583 - pytest_hooks - INFO - Created fresh screenshot directory: reports/screenshots/
+2026-05-27 21:26:48,583 - pytest_hooks - INFO - Ensured report directory exists: reports/
+2026-05-27 21:27:02,542 - FrameworkLogger - INFO - Browser launched: chromium, Headless=False
+2026-05-27 21:27:02,544 - FrameworkLogger - INFO - Navigated to https://parabank.parasoft.com/parabank/index.htm
+2026-05-27 21:27:38,103 - FrameworkLogger - INFO - Browser launched: chromium, Headless=False
+2026-05-27 21:27:38,106 - FrameworkLogger - INFO - Navigated to https://parabank.parasoft.com/parabank/index.htm
+2026-05-27 21:34:54,702 - FrameworkLogger - INFO - Starting Base test class
+2026-05-27 21:34:54,710 - pytest_hooks - INFO - Preparing report directories at session start...
+2026-05-27 21:34:54,711 - pytest_hooks - INFO - Deleted old screenshot directory: reports\screenshots
+2026-05-27 21:34:54,711 - pytest_hooks - INFO - Created fresh screenshot directory: reports\screenshots
+2026-05-27 21:34:54,712 - pytest_hooks - INFO - Ensured report directory exists: reports
+2026-05-27 21:34:59,067 - FrameworkLogger - INFO - Browser launched: chromium, Headless=False
+2026-05-27 21:34:59,069 - FrameworkLogger - INFO - Navigated to https://parabank.parasoft.com/parabank/index.htm
+2026-05-27 21:35:33,642 - FrameworkLogger - INFO - Browser launched: chromium, Headless=False
+2026-05-27 21:35:33,644 - FrameworkLogger - INFO - Navigated to https://parabank.parasoft.com/parabank/index.htm

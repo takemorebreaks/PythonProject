@@ -12,10 +12,10 @@ class Config:
     # Timeout settings
     DEFAULT_TIMEOUT = 30000  # in ms
 
-    # Report paths
-    REPORT_DIR = "reports/"
-    SCREENSHOT_DIR = REPORT_DIR + "screenshots/"
+    # Report paths (no trailing slashes)
+    REPORT_DIR = "reports"
+    SCREENSHOT_DIR = os.path.join(REPORT_DIR, "screenshots")
 
     # Test data paths
-    TEST_DATA_FILE = "data/test_data.json"
-    LOCATORS_FILE = "data/locators.json"
+    TEST_DATA_FILE = os.path.join("data", "test_data.json")
+    LOCATORS_FILE = os.path.join("data", "locators.json")
