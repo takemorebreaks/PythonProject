@@ -265,3 +265,34 @@
 2026-05-27 19:50:07,497 - FrameworkLogger - INFO - Starting Base test class
 2026-05-27 19:50:11,912 - FrameworkLogger - INFO - Browser launched: chromium, Headless=False
 2026-05-27 19:50:11,914 - FrameworkLogger - INFO - Navigated to https://parabank.parasoft.com/parabank/index.htm
+2026-05-27 20:01:57,436 - FrameworkLogger - INFO - Starting Base test class
+2026-05-27 20:02:12,192 - FrameworkLogger - INFO - Browser launched: chromium, Headless=False
+2026-05-27 20:02:12,193 - FrameworkLogger - INFO - Navigated to https://parabank.parasoft.com/parabank/index.htm
+2026-05-27 20:14:01,628 - FrameworkLogger - INFO - Starting Base test class
+2026-05-27 20:14:23,594 - FrameworkLogger - INFO - Starting Base test class
+2026-05-27 20:14:57,174 - FrameworkLogger - INFO - Starting Base test class
+2026-05-27 20:15:16,031 - FrameworkLogger - INFO - Starting Base test class
+2026-05-27 20:15:52,404 - FrameworkLogger - INFO - Starting Base test class
+2026-05-27 20:17:15,449 - FrameworkLogger - INFO - Starting Base test class
+2026-05-27 20:17:19,919 - FrameworkLogger - INFO - Browser launched: chromium, Headless=False
+2026-05-27 20:17:19,920 - FrameworkLogger - INFO - Navigated to https://parabank.parasoft.com/parabank/index.htm
+2026-05-27 20:17:55,065 - FrameworkLogger - INFO - Browser launched: chromium, Headless=False
+2026-05-27 20:17:55,065 - FrameworkLogger - INFO - Navigated to https://parabank.parasoft.com/parabank/index.htm
+2026-05-27 20:26:12,767 - FrameworkLogger - INFO - Starting Base test class
+2026-05-27 20:26:12,778 - pytest_hooks - INFO - Preparing report directories at session start...
+2026-05-27 20:26:12,778 - pytest_hooks - INFO - Deleted old screenshot directory: reports/screenshots/
+2026-05-27 20:26:12,781 - pytest_hooks - INFO - Created fresh screenshot directory: reports/screenshots/
+2026-05-27 20:26:12,781 - pytest_hooks - INFO - Ensured report directory exists: reports/
+2026-05-27 20:26:19,394 - FrameworkLogger - INFO - Browser launched: chromium, Headless=False
+2026-05-27 20:26:19,394 - FrameworkLogger - INFO - Navigated to https://parabank.parasoft.com/parabank/index.htm
+2026-05-27 20:26:55,694 - FrameworkLogger - INFO - Browser launched: chromium, Headless=False
+2026-05-27 20:26:55,694 - FrameworkLogger - INFO - Navigated to https://parabank.parasoft.com/parabank/index.htm
+2026-05-27 20:28:09,266 - FrameworkLogger - INFO - Starting Base test class
+2026-05-27 20:28:09,273 - pytest_hooks - INFO - Preparing report directories at session start...
+2026-05-27 20:28:09,274 - pytest_hooks - INFO - Deleted old screenshot directory: reports/screenshots/
+2026-05-27 20:28:09,275 - pytest_hooks - INFO - Created fresh screenshot directory: reports/screenshots/
+2026-05-27 20:28:09,275 - pytest_hooks - INFO - Ensured report directory exists: reports/
+2026-05-27 20:28:14,557 - FrameworkLogger - INFO - Browser launched: chromium, Headless=False
+2026-05-27 20:28:14,557 - FrameworkLogger - INFO - Navigated to https://parabank.parasoft.com/parabank/index.htm
+2026-05-27 20:28:49,404 - FrameworkLogger - INFO - Browser launched: chromium, Headless=False
+2026-05-27 20:28:49,404 - FrameworkLogger - INFO - Navigated to https://parabank.parasoft.com/parabank/index.htm
